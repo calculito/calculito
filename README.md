@@ -3,17 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/calculito" target="blank"><img src="https://img.shields.io/twitter/follow/calculito?logo=twitter&style=for-the-badge" alt="calculito" /></a> </p>
 
-🔭 Last Personal Project
-Building a HackerNews browser clone, experimenting with clean architecture and modern web practices.
+💼 Professional Work
+Much of my recent work has been done under strict NDA agreements, so I can’t showcase the full range of projects here. These include large-scale AI and NLP systems deployed in production.
 
-🌱 Learning Focus
-Daily diving deeper into Large Language Models (LLMs), Natural Language Processing (NLP), agents and agentic systems, RAG and KG hybrid systems, domain engineering etc..
+🔍 What I Can Share
+To give a sense of my skills, I highlight public experiments and side projects (like my HackerNews browser clone) and focus on learning paths (LLM, NLP, Python) that overlap with my professional responsibilities.
 
-🤝 Collaboration
-Open to discussions, feedback or collaboration on NLP workflows, text analysis and AI-powered applications.
-
-💬 Background
-Bringing my perspective as a CTO with hands-on experience in product development, AI integration and leading engineering teams.
+🌐 Background
+As a CTO, I’ve been responsible for architecting, leading, and delivering AI-driven solutions in regulated industries, with a strong focus on compliance, scalability, and innovation.
 
 📫 Contact
 Reach me at xxx.xxxx@gmail.com
