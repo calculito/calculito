@@ -3,15 +3,20 @@
 
 <p align="left"> <a href="https://twitter.com/calculito" target="blank"><img src="https://img.shields.io/twitter/follow/calculito?logo=twitter&style=for-the-badge" alt="calculito" /></a> </p>
 
-- 🔭 I’m currently working on [HackerNews browser clone](https://github.com/calculito/hackerNewsBrowserClean)
+🔭 Last Personal Project
+Building a HackerNews browser clone, experimenting with clean architecture and modern web practices.
 
-- 🌱 I’m currently learning **LLM | NLP | Python**
+🌱 Learning Focus
+Daily diving deeper into Large Language Models (LLMs), Natural Language Processing (NLP), agents and agentic systems, RAG and KG hybrid systems, domain engineering etc..
 
-- 🤝 I’m looking for help with [NLP](https://github.com/calculito/hackerNewsBrowserClean)
+🤝 Collaboration
+Open to discussions, feedback or collaboration on NLP workflows, text analysis and AI-powered applications.
 
-- 💬 Ask me about **My experience as CTO**
+💬 Background
+Bringing my perspective as a CTO with hands-on experience in product development, AI integration and leading engineering teams.
 
-- 📫 How to reach me **xxx.xxxx@gmail.com**
+📫 Contact
+Reach me at xxx.xxxx@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
