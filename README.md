@@ -10,7 +10,7 @@ Much of my recent work has been done under strict NDA agreements, so I can’t s
 To give a sense of my skills, I highlight public experiments and side projects (like my HackerNews browser clone) and focus on learning paths (LLM, NLP, Python) that overlap with my professional responsibilities.
 
 🌐 Background
-As a CTO, I’ve been responsible for architecting, leading, and delivering AI-driven solutions in regulated industries, with a strong focus on compliance, scalability, and innovation.
+As a CEO/CTO, I’ve been responsible for architecting, leading, and delivering AI-driven solutions in regulated industries, with a strong focus on compliance, scalability, and innovation.
 
 📫 Contact
 Reach me at xxx.xxxx@gmail.com
